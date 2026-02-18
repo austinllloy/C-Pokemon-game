@@ -1,9 +1,4 @@
-/*
-   Name: Austin Loyd, 2002553501, Assignment 5, 0
-Description: Prints to log hello code grade.
-Input: EXPECTED_PROGRAM_INPUT.
-Output: Class output.
-*/
+
 #include "PokemonPiece.h"
 #include "LegendaryType.h"
 #include "TankType.h"
@@ -115,3 +110,4 @@ cout << endl;
     } 
     
     
+
