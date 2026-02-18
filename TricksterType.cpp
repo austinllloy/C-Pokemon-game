@@ -1,9 +1,4 @@
-/*
-   Name: Austin Loyd, 2002553501, Assignment 2, 0
-Description: Prints to log hello code grade.
-Input: EXPECTED_PROGRAM_INPUT.
-Output: Class output.
-*/
+
 #include "TricksterType.h"
 #include "PokemonPiece.h" 
 #include <iostream>
@@ -60,3 +55,4 @@ TricksterType::TricksterType(bool teamColor) : PokemonPiece(teamColor) {
     } 
     
     
+
